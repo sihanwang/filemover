@@ -1,0 +1,15 @@
+*.class
+*.bak
+.classpath
+.project
+*.properties
+*.releaseBackup
+
+
+# Package Files #
+*.war
+*.ear
+
+# Folders
+target/
+.settings/
